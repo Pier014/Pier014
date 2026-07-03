@@ -1,16 +1,22 @@
-## Hi there 👋
+## About me 👋
 
-<!--
-**Pier014/Pier014** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,100:203A43&text=Pier%20014&fontColor=ffffff&fontSize=55"/>
+</p>
 
-Here are some ideas to get you started:
+# 👋 Hola, soy Pier
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Estudiante de Ingeniería
+
+🔐 Apasionado por la Ciberseguridad
+
+💻 Python • Linux • Cisco • Redes
+
+Actualmente aprendiendo:
+
+- Active Directory
+- Wazuh
+- Zabbix
+- Docker
+- SOC
+- Malware Analysis

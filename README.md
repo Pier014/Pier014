@@ -4,7 +4,7 @@
 
 # Pier Vassallo
 
-👤[LinkdIn](www.linkedin.com/in/pierangelo-vassallo-22605a363)<br>
+👤 [LinkdIn](www.linkedin.com/in/pierangelo-vassallo-22605a363)<br>
 ✉️ piervassallo@hotmail.com
 
 ## 👋 About me

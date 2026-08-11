@@ -4,15 +4,14 @@
 
 # Pier Vassallo
 
-👤 [LinkedIn](www.linkedin.com/in/pierangelo-vassallo-22605a363)<br>
-✉️ piervassallo@hotmail.com
+✉️: piervassallo@hotmail.com
 
 ## 👋 About me
 🎓 Estudiante de Ingeniería<br>
 🔐 Apasionado por la Ciberseguridad<br>
 💻 Linux • Python • Java • Redes<br>
 
-## 🛠 Tecnologías
+## 🛠 Tec
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,java,linux,bash,docker,git"/>

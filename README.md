@@ -11,7 +11,7 @@
 🔐 Apasionado por la Ciberseguridad<br>
 💻 Linux • Python • Java • Redes<br>
 
-## 🛠 Tec
+## <img width="30" height="30" alt="image" src="https://img.icons8.com/?size=100&id=FX263emkGCx0&format=png&color=000000"/> Skills
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,java,linux,bash,docker,git"/>
